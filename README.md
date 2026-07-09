@@ -1,8 +1,4 @@
-# 🚦 Beginner Traffic Light Controller
-
-This is a beginner-level Python mini-project that simulates a traffic light system.
-
----
+#Traffic Light Controller
 
 ## How It Works
 
@@ -11,11 +7,9 @@ This is a beginner-level Python mini-project that simulates a traffic light syst
 - GREEN → Wait 3 seconds
 - Then prints "Traffic light cycle complete!"
 
-This simulation only runs **one cycle** (no loops or advanced logic), so it's perfect for beginners.
-
 ---
 
-## 📄 Python Code
+##Python Code
 
 ```python
 import time
