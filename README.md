@@ -1,4 +1,4 @@
-#Traffic Light Controller
+# Traffic Light Controller
 
 ## How It Works
 
@@ -9,7 +9,7 @@
 
 ---
 
-##Python Code
+## Python Code
 
 ```python
 import time
