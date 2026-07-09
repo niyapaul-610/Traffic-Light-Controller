@@ -1,4 +1,4 @@
-# 🚦 Beginner Traffic Light Simulation (One cycle only)
+# Traffic Light Simulation (One cycle only)
 import time  # To add waiting/delay
 
 # Show RED light
